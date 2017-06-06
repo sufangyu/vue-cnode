@@ -10,7 +10,7 @@
       <p>项目基于 vue2、vue-router、vuex 进行开发，使用了 vue-cli 开发、编译打包。</p>
 
       <h3>源码地址</h3>
-      <p><a href="https://github.com/sufangyu/vue-cnode/issues" target="_blank">https://github.com/sufangyu/vue-cnode</a></p>
+      <p><a href="https://github.com/sufangyu/vue-cnode/" target="_blank">https://github.com/sufangyu/vue-cnode</a></p>
 
       <h3>意见反馈</h3>
       <p><a href="https://github.com/sufangyu/vue-cnode" target="_blank">发表意见或者提需求</a></p>
