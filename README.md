@@ -1,6 +1,6 @@
 # vue-cnode
 
-vue-cnode 是使用 Vue.js 开发的CNode 社区。
+vue-cnode 是使用 Vue.js 开发的CNode 社区。[点击此预览](http://sufangyu.github.io/project/vue-cnode/index.html)
  
 ### 截图
 
@@ -8,17 +8,15 @@ vue-cnode 是使用 Vue.js 开发的CNode 社区。
 
 ![](./screenshot/02.jpg)
 
+![](./screenshot/08.jpg)
+
 ![](./screenshot/03.jpg)
 
 ![](./screenshot/04.jpg)
 
-![](./screenshot/05.jpg)
-
 ![](./screenshot/06.jpg)
 
 ![](./screenshot/07.jpg)
-
-![](./screenshot/08.jpg)
 
 
 ### 功能
