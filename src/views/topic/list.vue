@@ -59,9 +59,6 @@
 </template>
 
 <script>
-/**
- * @TODO: loader 手机端不显示;
- */
 import { NavCategory } from '@/components/nav';
 import Icon from '@/components/icon';
 import { Button } from '@/components/buttons';

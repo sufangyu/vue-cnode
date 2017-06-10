@@ -77,7 +77,6 @@
 </template>
 
 <script>
-// @TODO: 高亮 Tab
 import { Tabs, Tab } from '@/components/tabs';
 import ModuleState from '@/components/states';
 import { MessageItem } from '@/components/listItems';
