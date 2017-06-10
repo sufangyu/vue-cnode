@@ -58,4 +58,9 @@ npm run build
 npm test
 ```
 
+### TODO
+* 页面切换动画
+* 缓存不需要每次刷新的组件
+
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
