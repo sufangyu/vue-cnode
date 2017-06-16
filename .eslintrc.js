@@ -26,6 +26,8 @@ module.exports = {
   'rules': {
     // 可使用 console
     'no-console': 'off',
+    // 不指定换行风格
+    'linebreak-style': 0,
     // don't require .vue extension when importing
     'import/extensions': ['error', 'always', {
       'js': 'never',
