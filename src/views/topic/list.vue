@@ -115,6 +115,12 @@ export default {
           to: { path: '/', query: { tab: 'job' } },
           replace: true,
         },
+        {
+          name: '测试',
+          tabValue: 'dev',
+          to: { path: '/', query: { tab: 'dev' } },
+          replace: true,
+        },
       ];
     },
     currentTab() {
