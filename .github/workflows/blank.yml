@@ -26,13 +26,13 @@ jobs:
 
       # 安装指定Node版本，使用actions/setup-node@v1
       - name: Install Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
 
       # 安装依赖打包静态资源
       - name: Install & Build
-        run: |
+      - run: |
           yarn config set registry https://registry.npm.taobao.org 
           yarn install
           yarn build
